@@ -1,0 +1,22 @@
+# requirements.txt
+# Python Dependencies
+numpy
+pandas
+matplotlib
+plotly
+yfinance
+python-binance
+ta
+opencv-python
+ultralytics
+torch
+torchvision
+scikit-learn
+xgboost
+fastapi
+uvicorn
+requests
+PyYAML
+joblib
+labelImg
+
