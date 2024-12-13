@@ -1,6 +1,6 @@
 # Crypto Trend Predictor
 
-![Crypto Trend Predictor](https://github.com/cy6erlizard/crypto_trend_predictor/assets/banner.png)
+![Crypto Trend Predictor](https://github.com/cy6erlizard/crypto_trend_predictor/blob/master/assets/banner.png)
 
 **Crypto Trend Predictor** is an advanced Python-based project that leverages object detection and machine learning to identify chart patterns in cryptocurrency markets, analyze trend sequences, and predict future price movements. By automating the detection of recognizable chart patterns and utilizing these patterns to forecast market trends, this tool aims to assist traders in making informed and profitable trading decisions.
 
