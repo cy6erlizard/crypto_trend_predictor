@@ -26,7 +26,7 @@ def main(args):
     elif args.step == "execute_trading":
         trading.main()
     else:
-        print("Unknown step. Please choose a valid step.")
+        print("Unknown step.")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Crypto Trend Predictor Pipeline")
@@ -34,4 +34,3 @@ if __name__ == "__main__":
                         help="Step to execute: collect_data, generate_charts, convert_annotations, train_yolo, detect_patterns, train_predictive_model, execute_trading")
     args = parser.parse_args()
     main(args)
-
